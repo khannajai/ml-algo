@@ -3,8 +3,6 @@
 Implementation of k-means clustering on the mnist dataset. 
 
 Jai Khanna
-Alexandra Maria Retevoi
-Abrish Sabri
 '''
 
 import numpy as np
